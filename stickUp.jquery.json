@@ -10,7 +10,7 @@
         "sticky",
         "plugin"
     ],
-    "version": "0.5.7",
+    "version": "0.5.8",
     "author": {
         "name": "Liran Cohen",
         "url": "http://lirancohen.github.io/stickUp/"
@@ -20,6 +20,11 @@
             "name": "Liran Cohen",
             "email": "lirancohen@me.com",
             "url": "http://www.github.com/lirancohen/"
+        },
+        {
+            "name": "Haohong Xu",
+            "email": "weidai1122@gmail.com",
+            "url": "http://www.github.com/haohong/"
         }
     ],
     "licenses": [
